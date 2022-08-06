@@ -30,7 +30,7 @@
 <p>root用户直接执行以下命令, 根据提示选择对应功能即可。</p>
 
 ```
-bash <(curl -s -L https://raw.githubusercontent.com/kt007007/KTMinerProxy/main/linux-install.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/FlyBullProxy/FlyBullProxy/main/linux-install.sh)
 ```
 
 <h2>免责声明</h2>
