@@ -13,7 +13,7 @@
 [![Issues][issues-shield]][issues-url]
 
 <h3>
-    Telegram：<a href="https://t.me/+VK7ZOlKvcLljYjQ1">https://t.me/+VK7ZOlKvcLljYjQ1</a>
+    Telegram：<a href="https://t.me/dilirebaproxy">https://t.me/+VK7ZOlKvcLljYjQ1</a>
 </h3>
 
 </div>
