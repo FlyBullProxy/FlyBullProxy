@@ -362,8 +362,6 @@ bash <(curl -s -L https://raw.githubusercontent.com/FlyBullProxy/FlyBullProxy/ma
 # 联系我们
 
 <p>Telegram: <a href="https://t.me/dilirebaproxy">https://t.me/dilirebaproxy</a></p>
-[comment]:<p>Discord: <a href="https://discord.gg/NCsx4y8AR9">https://discord.gg/NCsx4y8AR9</a></p>
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
