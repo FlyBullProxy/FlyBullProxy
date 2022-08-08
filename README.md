@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kt007007/KTMinerProxy/main/image/logo-1.png" alt="Logo" width="200" height="200">
+[comment]:<img src="https://raw.githubusercontent.com/kt007007/KTMinerProxy/main/image/logo-1.png" alt="Logo" width="200" height="200">
 
 <br>
 
@@ -12,14 +12,14 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-<h3>
-    Telegram：<a href="https://t.me/dilirebaproxy">https://t.me/dilirebaproxy</a>
-</h3>
+[comment]:<h3>
+[comment]:    Telegram：<a href="https://t.me/dilirebaproxy">https://t.me/dilirebaproxy</a>
+[comment]:</h3>
 
 </div>
 <!-- <h1></h1> -->
 <!-- <h2>简介</h2> -->
-<h1>KTMinerProxy</h1>
+<h1>FlyBullProxy</h1>
 <p>:zap: 原创正版，功能强大，性能强劲。支持无损BTC ETC ETH LTC ERG CFX RVN SERO XMR CKB BEAM ALPH KASPA等多个币种抽水，不爆内存，体验拉满，4000台无压力不崩溃，精确到单台设备的24小时数据统计、自定义隧道推送工具等强大功能...</p>
 
 [comment]:<p align="center">
