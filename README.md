@@ -323,9 +323,9 @@ bash <(curl -s -L https://raw.githubusercontent.com/FlyBullProxy/FlyBullProxy/ma
 ## IP黑名单
 <p></p>
 <p> 前往设置页面, IP黑名单选项卡可主动加入IP黑名单</p>
-[//]:<p></p>
-[//]:<p><img src="./image/jt18.png"></p>
-[//]:<p></p>
+[//]: <p></p>
+[//]: <p><img src="./image/jt18.png"></p>
+[//]: <p></p>
 
 <span id="q12"></span>
 ## ETH、ETC芯片机
