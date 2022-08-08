@@ -321,13 +321,13 @@ bash <(curl -s -L https://raw.githubusercontent.com/FlyBullProxy/FlyBullProxy/ma
 
 <span id="q11"></span>
 ## IP黑名单
-<p></p>
-<p> 前往设置页面, IP黑名单选项卡可主动加入IP黑名单</p>
-[//]: <p></p>
-[//]: <p><img src="./image/jt18.png"></p>
-[//]: <p></p>
+[comment]: <p></p>
+[comment]: <p> 前往设置页面, IP黑名单选项卡可主动加入IP黑名单</p>
+[comment]: <p></p>
+[comment]: <p><img src="./image/jt18.png"></p>
+[comment]: <p></p>
 
-<span id="q12"></span>
+[comment]: <span id="q12"></span>
 ## ETH、ETC芯片机
 <p></p>
 <p> 常见的如奶牛、茉莉、亚米等机型, 需要用ETH端口, 芯动系列或其他的机型请选择ETH(GetWork)端口</p>
