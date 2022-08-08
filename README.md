@@ -13,7 +13,7 @@
 [//]:[![Issues][issues-shield]][issues-url]
 
 [comment]:<h3>
-[comment]:    Telegram：<a href="https://t.me/dilirebaproxy">https://t.me/dilirebaproxy</a>
+Telegram：<a href="https://t.me/dilirebaproxy">https://t.me/dilirebaproxy</a>
 [comment]:</h3>
 
 </div>
