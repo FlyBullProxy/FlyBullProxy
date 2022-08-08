@@ -319,15 +319,7 @@ bash <(curl -s -L https://raw.githubusercontent.com/FlyBullProxy/FlyBullProxy/ma
 <p></p>
 <p>抽水的算力因池而异，如果两个池子难度不同，也会导致算力差异</p>
 
-<span id="q11"></span>
-## IP黑名单
-[comment]: <p></p>
-[comment]: <p> 前往设置页面, IP黑名单选项卡可主动加入IP黑名单</p>
-[comment]: <p></p>
-[comment]: <p><img src="./image/jt18.png"></p>
-[comment]: <p></p>
 
-[comment]: <span id="q12"></span>
 ## ETH、ETC芯片机
 <p></p>
 <p> 常见的如奶牛、茉莉、亚米等机型, 需要用ETH端口, 芯动系列或其他的机型请选择ETH(GetWork)端口</p>
