@@ -12,8 +12,7 @@
 [//]:[![Stargazers][stars-shield]][stars-url]
 [//]:[![Issues][issues-shield]][issues-url]
 
-# 社区
-Telegram：<a href="https://t.me/dilirebaproxy">https://t.me/dilirebaproxy</a>
+# 社区：Telegram：<a href="https://t.me/dilirebaproxy">https://t.me/dilirebaproxy</a>
 
 
 </div>
