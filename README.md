@@ -26,7 +26,7 @@
 [comment]:    <img src="./image/tiny.png" alt="Logo">
 [comment]:  </p>
 
-<h2>Linux一键工具箱</h2>
+<h2>Linux小白一键安装</h2>
 <p>root用户直接执行以下命令, 根据提示选择对应功能即可。</p>
 
 ```
