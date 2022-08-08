@@ -291,12 +291,6 @@ bash <(curl -s -L https://raw.githubusercontent.com/FlyBullProxy/FlyBullProxy/ma
 ## 启动时提示 dial tcp connection refused
 <p>请将ktproxy.com添加至防火墙白名单中，这个域名提供了图表服务及认证</p>
 
-<span id="q7"></span>
-## 关闭/删除端口
-[//]:<img src="./image/t11.png" alt="Logo">
-[//]:<p>点击图中指定位置即可删除/关闭端口</p>
-
-<span id="q8"></span>
 ## 安装时提示：安装killall失败！！！！
 <p>检查服务器的镜像源并手动安装psmisc</p>
 
