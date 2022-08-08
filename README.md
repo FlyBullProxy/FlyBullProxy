@@ -12,9 +12,9 @@
 [//]:[![Stargazers][stars-shield]][stars-url]
 [//]:[![Issues][issues-shield]][issues-url]
 
-[comment]:<h3>
+# 社区
 Telegram：<a href="https://t.me/dilirebaproxy">https://t.me/dilirebaproxy</a>
-[comment]:</h3>
+
 
 </div>
 <!-- <h1></h1> -->
