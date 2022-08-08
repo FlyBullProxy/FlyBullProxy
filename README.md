@@ -7,10 +7,10 @@
 
 <br>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+[//]:[![Contributors][contributors-shield]][contributors-url]
+[//]:[![Forks][forks-shield]][forks-url]
+[//]:[![Stargazers][stars-shield]][stars-url]
+[//]:[![Issues][issues-shield]][issues-url]
 
 [comment]:<h3>
 [comment]:    Telegram：<a href="https://t.me/dilirebaproxy">https://t.me/dilirebaproxy</a>
