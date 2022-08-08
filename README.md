@@ -293,8 +293,8 @@ bash <(curl -s -L https://raw.githubusercontent.com/FlyBullProxy/FlyBullProxy/ma
 
 <span id="q7"></span>
 ## 关闭/删除端口
-<img src="./image/t11.png" alt="Logo">
-<p>点击图中指定位置即可删除/关闭端口</p>
+[//]:<img src="./image/t11.png" alt="Logo">
+[//]:<p>点击图中指定位置即可删除/关闭端口</p>
 
 <span id="q8"></span>
 ## 安装时提示：安装killall失败！！！！
@@ -323,9 +323,9 @@ bash <(curl -s -L https://raw.githubusercontent.com/FlyBullProxy/FlyBullProxy/ma
 ## IP黑名单
 <p></p>
 <p> 前往设置页面, IP黑名单选项卡可主动加入IP黑名单</p>
-<p></p>
-<p><img src="./image/jt18.png"></p>
-<p></p>
+[//]:<p></p>
+[//]:<p><img src="./image/jt18.png"></p>
+[//]:<p></p>
 
 <span id="q12"></span>
 ## ETH、ETC芯片机
