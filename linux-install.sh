@@ -2,7 +2,7 @@
 # Author: FlyBullProxy
 # github: https://github.com/FlyBullProxy/FlyBullProxy
 
-VERSION="2.7.7"
+VERSION="2.8.1"
 
 DOWNLOAD_HOST="https://github.com/FlyBullProxy/FlyBullProxy/raw/main/Linux-64"
 
