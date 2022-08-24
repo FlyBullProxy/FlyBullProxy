@@ -209,7 +209,7 @@ start() {
 update() {
     turn_off
 
-    installapp 2.7.7
+    installapp 2.8.1
 }
 
 turn_on() {
